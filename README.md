@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **stephanie-07/stephanie-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
